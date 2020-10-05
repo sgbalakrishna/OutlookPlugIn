@@ -1,4 +1,4 @@
-# OutlookPlugIn
+# MailBox Wizard an OutlookPlugIn
 
 This pluging upon running, displays counts and frequency of all email sender domains in selected folder.
 Example as shown below
