@@ -58,7 +58,7 @@ namespace mailBoxWizard
                     emailDetails.RecievedOn = mailItems[j].ReceivedTime;
                     if (mailItems[j].senderEmailType == "EX")
                     {
-                        emailDetails.EmailFrom = "valyue.de";
+                        emailDetails.EmailFrom = "xyz.de";
                     }
                     if (mailItems[j].senderEmailType == "SMTP")
                     {
