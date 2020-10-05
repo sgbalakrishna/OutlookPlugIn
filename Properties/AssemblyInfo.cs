@@ -8,9 +8,9 @@ using System.Security;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("mailBoxWizard")]
-[assembly: AssemblyDescription("Developed by Ramya Rangaswamy")]
+[assembly: AssemblyDescription("Developed by Balakrishna S G")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Valyue Consulting GmBH")]
+[assembly: AssemblyCompany("myOrg")]
 [assembly: AssemblyProduct("mailBoxWizard")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
