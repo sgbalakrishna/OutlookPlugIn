@@ -195,7 +195,7 @@ namespace mailBoxWizard
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AboutBox1 aboutbox = new AboutBox1();
-            aboutbox.Developer = "Ramya Rangaswamy";
+            aboutbox.Developer = "Balakrishna";
              aboutbox.Show();
         }
     }
